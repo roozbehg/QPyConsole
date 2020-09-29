@@ -1,6 +1,6 @@
 # QPyConsole
 
-This simple project demonestrates the embedding of python interpreter into C++/QT application.
+This simple project demonstrates the embedding of python interpreter into C++/QT application.
 
 # What's Next?
 
