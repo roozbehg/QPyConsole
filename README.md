@@ -13,7 +13,7 @@ Using pybind11 or PythonQt to create Python bindings to existing C++ code.
 
 ## Screenshot ##
 
-![](https://raw.githubusercontent.com/wzpan/QtEVM/master/Screenshots/QtEVM.png)
+![](https://github.com/roozbehg/QPyConsole/blob/master/screenshots/QPyConsole.png)
 
 ## References ##
 
