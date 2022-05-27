@@ -15,7 +15,7 @@ Using pybind11 or PythonQt to create Python bindings to existing C++ code.
 
 1) Make sure Python is installed in your computer.
 2) Open "QPyConsole.pro" and make sure link to python folder and it's libraries are correct (i.e. modify "/Python/Python38-32/" and "libs -lpython38" )
-3) Open QtCreator then open "QPyConsole.pro" fiela nd build the project.
+3) Open QtCreator then open "QPyConsole.pro" file and build the project.
 
 # Screenshot
 
